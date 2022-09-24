@@ -1,5 +1,5 @@
 ## Hi Everyone! We're Team MATES!!
-### Our team consists of Ankit Juneja, Aryan Jindal, Divyam Agrawal, Anand Kataria and Aayush Singh Panwar.
+### Our team consists of Ankit Juneja, Divyam Agrawal, Aryan Jindal, Anand Kataria and Aayush Singh Panwar.
 # MeetMate
 
 ## An easy to use cloud web application for your everyday online meeting needs.
