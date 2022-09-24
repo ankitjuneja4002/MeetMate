@@ -28,7 +28,7 @@
 #### 1.) Using our Heroku Application : [MeetMate](https://meetmate-v1.herokuapp.com/)
 #### 2.) Using a local server to start the index.html file 
 
-In order to achieve this, we show an examole of VS Code:
+In order to achieve this, we show an example of VS Code:
 
 #### Step-1
 Open Live Server Extension in VS Code: ![image](https://user-images.githubusercontent.com/83166347/143993763-8bf702b7-ff40-4d3f-9a6c-ed327d8aa0cd.png)
